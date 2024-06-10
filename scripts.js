@@ -1,3 +1,3 @@
-document.getElementById('alertButton').addEventListener('click', function() {
-    alert('Button clicked!');
+document.getElementById('alertButton').addEventListener('Dont you dare to click here!', function() {
+    alert('Fuck off!');
 });
